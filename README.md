@@ -25,7 +25,7 @@ Desenvolvimento de **APIs RESTful** de alta performance com foco em escalabilida
 * **Engenharia de Software:** Aplicação de princípios **SOLID** e arquitetura **MVC**, visando o desacoplamento entre lógica de negócio e infraestrutura.
 * **Dados e ORM:** Integração e manipulação de dados via **ORM** e queries SQL, garantindo uma camada de persistência robusta.
 
-#### [Microlytics](https://github.com/guiioshua)
+#### [Microlytics](https://github.com/Microlytics)
 Sistema de analytics full-stack focado em processamento de dados em massa.
 * **Stack Poliglota:** Backend híbrido em **Go** e **Python (Flask)** com frontend em **React**.
 * **Arquitetura:** Orquestração de serviços (API, Banco de Dados PostgreSQL) via **Docker** e lógica algorítmica para transformação de dados (ETL).
