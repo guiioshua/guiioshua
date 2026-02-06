@@ -12,11 +12,23 @@ Sou um desenvolvedor com foco em construção de aplicações escaláveis, integ
 
 ### 🚀 Projetos em Destaque
 
-* **DemoQuerycy:** Uma webapp de *civic tech* desenvolvida em Python (Flask) para ETL e visualização de dados parlamentares. Atuei como P.O. e desenvolvedor, implementando scripts de web scraping e estruturação de banco de dados MySQL containerizado com Docker.
-* **Microlytics:** Projeto pessoal de analytics full-stack focado em escalabilidade e processamento de dados.
-    * **Backend:** Desenvolvido com uma arquitetura híbrida utilizando Go e Python (Flask).
-    * **Infraestrutura:** Aplicação totalmente conteinerizada com Docker, utilizando PostgreSQL como banco de dados relacional.
-    * **Frontend:** Interface construída em React para visualização de métricas em tempo real.
+#### [DemoQuerycy](https://github.com/AgileKrakens/DemoQuerycy/)
+Projeto de **Civic Tech** focado em transparência pública, desenvolvido em **Python (Flask)**.
+* **Engenharia de Dados:** Implementação de pipelines de ETL com scripts de **Web Scraping** (Beautiful Soup/Requests) para coleta de dados parlamentares.
+* **Persistência:** Estruturação de banco de dados **MySQL** com foco em integridade e performance via queries parametrizadas.
+* **Infraestrutura:** Aplicação totalmente conteinerizada utilizando **Docker** para garantir reprodutibilidade do ambiente.
+* **Gestão Ágil:** Atuação como **Product Owner (P.O.)**, sendo responsável pela interface com o cliente e priorização de backlog em uma equipe de 6 desenvolvedores sob o framework **Scrum**.
+
+#### [FastAPI-desafio](https://github.com/guiioshua/FastAPI-desafio)
+Desenvolvimento de **APIs RESTful** de alta performance com foco em escalabilidade e padrões de arquitetura modernos.
+* **Performance:** Utilização do framework **FastAPI** para operações assíncronas e validação rigorosa de dados com Pydantic.
+* **Engenharia de Software:** Aplicação de princípios **SOLID** e arquitetura **MVC**, visando o desacoplamento entre lógica de negócio e infraestrutura.
+* **Dados e ORM:** Integração e manipulação de dados via **ORM** e queries SQL, garantindo uma camada de persistência robusta.
+
+#### [Microlytics](https://github.com/guiioshua)
+Sistema de analytics full-stack focado em processamento de dados em massa.
+* **Stack Poliglota:** Backend híbrido em **Go** e **Python (Flask)** com frontend em **React**.
+* **Arquitetura:** Orquestração de serviços (API, Banco de Dados PostgreSQL) via **Docker** e lógica algorítmica para transformação de dados (ETL).
 
 ---
 
