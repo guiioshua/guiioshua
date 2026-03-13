@@ -17,11 +17,11 @@
 
   **Software Engineer | Backend Developer | Dynamics 365 Consultant**
 
-  I am a developer focused on building scalable applications, system integration, and data architecture. Currently, I am pursuing a degree in Database Technology at FATEC São José dos Campos and working within the Microsoft Dynamics 365 ecosystem. I specialize in developing complex C# solutions, frontend customizations, Power Automate workflows, and CRM integrations for API consumption.
+  I am a developer focused on building scalable applications, system integration, and data architecture. Currently, I am pursuing a degree in Database Technology at FATEC São José dos Campos and working within the Microsoft Dynamics 365 ecosystem. In my work, I specialize in developing complex C# solutions, frontend customizations, Power Automate workflows, and CRM/ERP integrations for API consumption.
 
   ### 🛠️ Technologies & Skills
 
-  * **Languages & Frameworks:** Node.js (TypeScript), C# (.NET), Python (Django, FastAPI, Flask), and Java (Spring Boot).
+  * **Languages & Frameworks:** Python (Django, FastAPI, Flask), Java (Spring Boot), C# (.NET), Node.js (TypeScript).
   * **Backend & APIs:** RESTful API development and consumption, application of SOLID principles, Design Patterns, and MVC architecture.
   * **Data:** Modeling and maintenance of relational databases (MySQL, PostgreSQL, SQL Server/Dataverse) and NoSQL (MongoDB).
   * **DevOps & Tools:** Docker for containerization, Git/GitHub for version control, and Cloud knowledge (Azure/AWS).
@@ -63,11 +63,11 @@
 
   **Engenheiro de Software | Desenvolvedor Backend | Consultor Dynamics 365**
 
-  Sou um desenvolvedor com foco em construção de aplicações escaláveis, integração de sistemas e arquitetura de dados. Atualmente, curso Tecnologia em Banco de Dados na FATEC São José dos Campos e atuuo profissionalmente no ecossistema Microsoft Dynamics 365, onde desenvolvo soluções complexas em C#, personalizações front end, automações via Power Automate e integrações do CRM para consumo de APIs.
+  Sou um desenvolvedor com foco em construção de aplicações escaláveis, integração de sistemas e arquitetura de dados. Atualmente, curso Tecnologia em Banco de Dados na FATEC São José dos Campos e atuuo profissionalmente no ecossistema Microsoft Dynamics 365, onde desenvolvo soluções complexas em C#, personalizações front end, automações via Power Automate e integrações do CRM/ERP para consumo de APIs.
 
   ### 🛠️ Tecnologias e Habilidades
 
-  * **Linguagens & Frameworks:** Java (Spring Boot), Python (Django, FastAPI, Flask), C# (.NET) e Node.js.
+  * **Linguagens & Frameworks:** Python (Django, FastAPI, Flask), Java (Spring Boot), C# (.NET) e Node.js.
   * **Backend & APIs:** Desenvolvimento e consumo de APIs RESTful, aplicação de princípios SOLID, Design Patterns e arquitetura MVC.
   * **Dados:** Modelagem e manutenção de bancos de dados relacionais (MySQL, PostgreSQL, SQL Server/Dataverse) e não relacionais (MongoDB).
   * **DevOps & Ferramentas:** Docker para containerização, Git/GitHub para versionamento e conhecimentos em Cloud (Azure/AWS).
